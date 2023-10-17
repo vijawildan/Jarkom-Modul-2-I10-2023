@@ -134,3 +134,24 @@ Seperti yang kita tahu karena banyak sekali informasi yang harus diterima, buatl
 
 ## Problem 8
 Untuk informasi yang lebih spesifik mengenai Ranjapan Baratayuda, buatlah subdomain melalui Werkudara dengan akses rjp.baratayuda.abimanyu.yyy.com dengan alias www.rjp.baratayuda.abimanyu.yyy.com yang mengarah ke Abimanyu.
+
+# Answer & Scripts
+## Router Pandudewanata
+![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/a2f4d4aa-6786-4229-9a43-eab2852018f5)
+
+## Nakula Client
+![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/26d2997e-79f9-405d-987f-bf31a9e93769)
+
+## Yudhistira DNS Master
+![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/d3ae221a-9668-4fb7-842f-f83c78570cfc)
+
+## Werkudara DNS Slave
+![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/871abc0c-ec6b-4ddc-b97b-386fdf5ee024)
+
+## Arjuna Load Balancer
+![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/12b9899b-cd30-42a3-9060-864d96abb3e7)
+
+## Abimanyu Web Serve
+![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/9c31bbee-d3da-48de-a085-bdd49c2151a3)
+
+
