@@ -13,7 +13,7 @@ Computer Network Practicum 1st Module I10
 Yudhistira akan digunakan sebagai DNS Master, Werkudara sebagai DNS Slave, Arjuna merupakan Load Balancer yang terdiri dari beberapa Web Server yaitu Prabakusuma, Abimanyu, dan Wisanggeni. Buatlah topologi dengan pembagian sebagai berikut. Folder topologi dapat diakses pada drive berikut
 
 ![Topology](https://media.discordapp.net/attachments/919468862725046322/1163798430536171630/image.png?ex=6540e2c0&is=652e6dc0&hm=1efd6bd22172fc5309717c58fc4a10c2d7efb86d195891f76fb948576d60a636&=&width=1435&height=702)
-<p style="text-align: center;">The Topology</p>
+:The Topology:
 
 ## Network Configuration
 
