@@ -117,40 +117,41 @@ iface eth0 inet static
 ## Problem 2
 Buatlah website utama pada node arjuna dengan akses ke arjuna.yyy.com dengan alias www.arjuna.yyy.com dengan yyy merupakan kode kelompok.
 
+### Answer
 ![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/269fec73-a7d8-4818-8913-18341da26823)
 ![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/8fae9d9e-434c-44fd-a1fa-41d445a658bd)
 
 ## Problem 3
 Dengan cara yang sama seperti soal nomor 2, buatlah website utama dengan akses ke abimanyu.yyy.com dan alias www.abimanyu.yyy.com.
-
+### Answer
 ![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/04b7e3ff-f4cb-4325-b3e8-9ec4f12a1ad3)
 ![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/c6c4a954-5fc8-4dfa-a801-f922e7048027)
 
 ## Problem 4
 Kemudian, karena terdapat beberapa web yang harus di-deploy, buatlah subdomain parikesit.abimanyu.yyy.com yang diatur DNS-nya di Yudhistira dan mengarah ke Abimanyu.
-
+### Answer
 ![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/52c129e8-b353-43f2-90bc-d256f431fa95)
 
 ## Problem 5
 Buat juga reverse domain untuk domain utama. (Abimanyu saja yang direverse)
-
+### Answer
 ![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/a1982b84-03b5-40fc-a407-7852d1e23374)
 
 ## Problem 6
 Agar dapat tetap dihubungi ketika DNS Server Yudhistira bermasalah, buat juga Werkudara sebagai DNS Slave untuk domain utama.
-
+### Answer
 ![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/75b0fe03-0355-4cb9-b7a6-dc23b5db23f0)
 ![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/7156213a-2834-46a7-bb35-d7121fa3353b)
 
 ## Problem 7
 Seperti yang kita tahu karena banyak sekali informasi yang harus diterima, buatlah subdomain khusus untuk perang yaitu baratayuda.abimanyu.yyy.com dengan alias www.baratayuda.abimanyu.yyy.com yang didelegasikan dari Yudhistira ke Werkudara dengan IP menuju ke Abimanyu dalam folder Baratayuda.
-
+### Answer
 ![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/e2d8b37b-5534-418a-a12a-c7f138a3692b)
 
 
 ## Problem 8
 Untuk informasi yang lebih spesifik mengenai Ranjapan Baratayuda, buatlah subdomain melalui Werkudara dengan akses rjp.baratayuda.abimanyu.yyy.com dengan alias www.rjp.baratayuda.abimanyu.yyy.com yang mengarah ke Abimanyu.
-
+### Answer
 ![image](https://github.com/vijawildan/Jarkom-Modul-2-I10-2023/assets/71499142/03c2b053-18d3-41c3-8230-4f43f348ff2b)
 
 
